@@ -1,0 +1,17 @@
+{
+	"gateway_conf": {
+	 	"gateway_ID": "B827EBFFFE7368BC",
+		"servers": [ 
+			{ "server_address": "router.eu.thethings.network",
+				"serv_port_up": 1700,
+				"serv_port_down": 1700,
+				"serv_enabled": true 
+			}
+			],
+			"ref_latitude": 52.404353,
+			"ref_longitude": 1.300950,
+			"ref_altitude": 35,
+			"contact_email": "bentech119@gmail.com",
+			"description": "TTN Montec Test" 
+	}
+}
